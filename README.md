@@ -1,4 +1,3 @@
 # DeanonBot
 
-pip install telebot
-pip install requests
+pip install telebot || pip install requests
